@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayonara Almeida</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Ruby and Ruby on Rails**
+- 🌱 I’m currently learning **Ruby and Ruby on Rails** and **JavaScript**.
 
 - 👯 I’m looking to collaborate on [NeighBud](www.neighbud.me)
 

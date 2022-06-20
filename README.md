@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Ruby and Ruby on Rails** and **JavaScript**.
 
-- 👯 I’m looking to collaborate on [NeighBud](www.neighbud.me)
+- 👯 Take a look to my last project: [NeighBud](www.neighbud.me)
 
-- 📫 How to reach me **sas.arq@outlook.com**
+- 📫 You can reach me through **sas.arq@outlook.com**
 
 - 📄 Know about my experiences [https://app.flowcv.com/resume-feedback/rqyqY2CC4grAe1JtAyR0j](https://app.flowcv.com/resume-feedback/rqyqY2CC4grAe1JtAyR0j)
 
